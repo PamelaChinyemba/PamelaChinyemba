@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PamelaChinyemba
 - 👀 I’m interested in python development and data analytics
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects inclding django
+- 💞️ I’m looking to collaborate on python projects including django
 - 📫 You can reach me on pamchinyemba@gmail.com
 
 <!---
